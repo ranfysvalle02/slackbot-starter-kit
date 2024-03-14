@@ -1,0 +1,29 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Project-specific files
+__pycache__/  # Python compiled bytecode
+*.pyc
+*.log  
+*.env  # Environment variable file - keep it secret!
+
+# Data files (adjust depending on your project)
+data/
+output/
+results/
+
+# Dependency management
+venv/  # Python virtual environment 
+node_modules/  # Node.js dependencies
